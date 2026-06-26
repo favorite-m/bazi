@@ -1,0 +1,43 @@
+# Reasonix
+.reasonix/memory/
+.reasonix/settings.json
+
+# Code intelligence (local index)
+.codegraph/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# BMS Research data
+.search_result/*/data.db
+.search_result/*/data_v*.db
+.search_result/logs/
+.search_result/profiles/
+
+# Browser profiles (created at runtime)
+bms_research/_service/profiles/
+profiles/
+
+# Binary
+reasonix.exe
+
+# Environment
+.env
+credentials
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+reasonix.exe - *.lnk
+
+客户档案/Jinshui

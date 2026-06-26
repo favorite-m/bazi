@@ -38,6 +38,8 @@ Thumbs.db
 # IDE
 .vscode/
 
+.venv/
+
 reasonix.exe - *.lnk
 
 客户档案/Jinshui
